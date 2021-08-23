@@ -1,0 +1,1 @@
+This repo contains data associated with C/C++ ITMO Programming Technologies and Algorithms course
